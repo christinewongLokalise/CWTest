@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "",
+        "ru": "",
+        "home": "家",
+        "about": "关于"
+    },
+    "main": {
+        "welcome": "",
+        "new_message": "没有消息 |一条消息 | {count}条消息"
+    },
+    "about": {
+        "welcome": "欢迎来到关于页面！"
+    }
+}
